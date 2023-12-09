@@ -24,7 +24,7 @@ jupyter notebook
    > This data file contains both the data cleaning code and linear regression modelling
 * DATA0006_group4_assignment2_DECISIONTREE
    > This data file contains both the data cleaning code and decision tree regression modelling
-* DATA0006_group4_assignment2_KNEARESTNEIGHBOUR
+* DATA0006_group4_assignment2_KNN
     > This data file contains both the data cleaning code and KNN modelling
 
 ## Contributing
