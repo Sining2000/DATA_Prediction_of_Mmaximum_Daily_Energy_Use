@@ -1,7 +1,7 @@
 
 # DATA0006 Group4 Assignment2
 
-This project mainly cleans up data and then applies it to a model to predict the best results.
+This project aims to cleans up given csv files and then applies them to machine learning algorithms to predict daily energy use.
 ## Installation
 
 Install the below list of packages along with Python3
