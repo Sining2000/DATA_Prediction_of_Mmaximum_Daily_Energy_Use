@@ -30,4 +30,4 @@ jupyter notebook
 ## Contributing
 * Sining Bao
 * Benjamin Wang
-* Pamela Yang
+* Yi (Pamela) Yang
